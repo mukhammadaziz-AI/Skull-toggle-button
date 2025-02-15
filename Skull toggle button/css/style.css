@@ -12,7 +12,7 @@
 *:before,
 *:after {
     box-sizing: border-box;
-    /*#btn:checked + label .thumb*/
+/*#btn:checked + label .thumb*/
 }
 /*------------------------ Body ------------------------*/
 body {
